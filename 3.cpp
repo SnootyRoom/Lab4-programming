@@ -71,4 +71,4 @@ int main(int, char **)
     std::cout << joinedString << std::endl;
 
     return 0;
-}`
+}
