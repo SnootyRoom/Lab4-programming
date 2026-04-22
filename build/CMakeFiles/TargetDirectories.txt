@@ -1,4 +1,4 @@
-C:/Visual Studio Code/Lab4-programming/build/CMakeFiles/Lab4-programming.dir
 C:/Visual Studio Code/Lab4-programming/build/CMakeFiles/Task_1.dir
+C:/Visual Studio Code/Lab4-programming/build/CMakeFiles/Task_2.dir
 C:/Visual Studio Code/Lab4-programming/build/CMakeFiles/ALL_BUILD.dir
 C:/Visual Studio Code/Lab4-programming/build/CMakeFiles/ZERO_CHECK.dir

@@ -46,22 +46,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Debug-912f90a274b1726a7c0f.json",
+					"jsonFile" : "target-ALL_BUILD-Debug-876761fbee3a52151f48.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Lab4-programming::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Lab4-programming-Debug-a35a6b1087470248a441.json",
-					"name" : "Lab4-programming",
+					"id" : "Task_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_1-Debug-82496de8c3648f42a357.json",
+					"name" : "Task_1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Task_1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Task_1-Debug-cd1cbbf91a4a7b941997.json",
-					"name" : "Task_1",
+					"id" : "Task_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_2-Debug-ff43ca789e9fa170665f.json",
+					"name" : "Task_2",
 					"projectIndex" : 0
 				},
 				{
@@ -118,22 +118,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-Release-912f90a274b1726a7c0f.json",
+					"jsonFile" : "target-ALL_BUILD-Release-876761fbee3a52151f48.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Lab4-programming::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Lab4-programming-Release-7ef38f904ab398c7f449.json",
-					"name" : "Lab4-programming",
+					"id" : "Task_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_1-Release-e93b0d11ca0c6ab9a869.json",
+					"name" : "Task_1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Task_1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Task_1-Release-833ee83fcd9581d95bea.json",
-					"name" : "Task_1",
+					"id" : "Task_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_2-Release-ead18bf3928580723652.json",
+					"name" : "Task_2",
 					"projectIndex" : 0
 				},
 				{
@@ -190,22 +190,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-MinSizeRel-912f90a274b1726a7c0f.json",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-876761fbee3a52151f48.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Lab4-programming::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Lab4-programming-MinSizeRel-8fb1f9d2a2f423a8d846.json",
-					"name" : "Lab4-programming",
+					"id" : "Task_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_1-MinSizeRel-1b96c9b103535e67edb4.json",
+					"name" : "Task_1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Task_1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Task_1-MinSizeRel-3fe214feba5f48dfbb89.json",
-					"name" : "Task_1",
+					"id" : "Task_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_2-MinSizeRel-7ab9fe812fd1b2c85bf1.json",
+					"name" : "Task_2",
 					"projectIndex" : 0
 				},
 				{
@@ -262,22 +262,22 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-912f90a274b1726a7c0f.json",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-876761fbee3a52151f48.json",
 					"name" : "ALL_BUILD",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Lab4-programming::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Lab4-programming-RelWithDebInfo-82b878a7070984afd034.json",
-					"name" : "Lab4-programming",
+					"id" : "Task_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_1-RelWithDebInfo-daf625280f1160c2c896.json",
+					"name" : "Task_1",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
-					"id" : "Task_1::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Task_1-RelWithDebInfo-03890d1dc2bb30af4444.json",
-					"name" : "Task_1",
+					"id" : "Task_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Task_2-RelWithDebInfo-929f605a1eb872c20b19.json",
+					"name" : "Task_2",
 					"projectIndex" : 0
 				},
 				{
