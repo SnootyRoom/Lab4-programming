@@ -12,6 +12,7 @@
 		<BuildDependency Project="Task_2.vcxproj"/>
 		<BuildDependency Project="Task_3.vcxproj"/>
 		<BuildDependency Project="Task_4.vcxproj"/>
+		<BuildDependency Project="Task_5.vcxproj"/>
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 		<Build Solution="Debug|*" Project="false"/>
 		<Build Solution="Release|*" Project="false"/>
@@ -28,6 +29,9 @@
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 	</Project>
 	<Project Path="Task_4.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="d44fd437-64cb-326b-8ff7-b42b6479b150">
+		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="Task_5.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="eb31f7a1-7b31-3d19-809d-75eb883665cc">
 		<BuildDependency Project="ZERO_CHECK.vcxproj"/>
 	</Project>
 	<Project Path="ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="1a3b4d08-5406-3a66-b4d6-c8f60db47fb8"/>
